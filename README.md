@@ -2,6 +2,8 @@
 
 RSA encryption
 
+For more information see here: http://fluttercrypto.bplaced.net/rsa-encrypt-playground-webcrypto/
+
 ```plaintext
 https://pub.dev/packages/webcrypto
 https://github.com/google/webcrypto.dart
