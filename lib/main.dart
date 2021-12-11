@@ -230,7 +230,7 @@ class _MainFormPageState extends State<MainFormPage> {
                               padding: const EdgeInsets.only(top: 20),
                               child: Text(
                                   'Die App demonstriert die Verschlüsselung mit'
-                                  ' dem RSA Algorithmus mit den Paddings OAEP und PKCS 1.5.'
+                                  ' dem RSA Algorithmus mit den Paddings OAEP-SHA-1 und OAEP-SHA-256.'
                                   '\nDas RSA Schlüsselpaar kann erzeugt und lokal gespeichert werden.'),
                             ),
                           ],
