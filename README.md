@@ -160,6 +160,10 @@ iOS Simulator:
   iOS 11.4 Emulator 
 ```
 
+```plaintext
+/Users/michaelfehr/.pub-cache/hosted/pub.dartlang.org/webcrypto-0.5.2
+rm -r webcrypto-0.5.2
+```
 
 ## Getting Started
 
